@@ -21,7 +21,7 @@ def main():
                 "Each species is identified as definitely edible, definitely poisonous, "
                 "or of unknown edibility and not recommended. "
                 )
-    st.markdown("Go to the side bar and choose from the several options"
+    st.markdown("Go to the side bar and choose from the several options "
                 "available then press (Classify) to see results!!")
     st.sidebar.markdown("Let's determine if a mushroom is edible or poisonous? 🍄")
 
